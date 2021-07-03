@@ -1,0 +1,11 @@
+body {
+  background: #00f url(img/stars.gif) top left;
+}
+
+#logo-ua {
+  max-height: 3em;
+}
+
+#poster {
+  max-height: 95vh;
+}
